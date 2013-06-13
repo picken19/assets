@@ -7,7 +7,7 @@
 * Interview instructors: 
 	
 	> Why do people participate in open source computational science and teaching?
-	> What at the main benefits?
+	> What are the main benefits?
 	> What are their goals for teaching?
 	> What topics do they think are most useful to students?
 	> What should we teach that we aren't already teaching?
